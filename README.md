@@ -13,7 +13,7 @@
 - 💼 Currently pursuing expertise in backend development, system design
 - 🔍 Interested in web development, open-source projects
 - 📫 Reach me at [ashenhimasha10@gmail.com] or on [LinkedIn]([https://www.linkedin.com/in/Ashen De Silva](https://www.linkedin.com/in/ashen-de-silva-8b4a30334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
-- 📱 Feel free to connect with me on WhatsApp: [+94 763188418]
+- 📱 Feel free to connect with me on WhatsApp: [http://wa.me/+94763188418]
 
 ---
 
