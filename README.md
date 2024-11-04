@@ -12,7 +12,7 @@
 - 👨‍🎓 I'm an undergraduate software engineer in Java Institute For Advance Technology
 - 💼 Currently pursuing expertise in backend development, system design
 - 🔍 Interested in web development, open-source projects
-- 📫 Reach me at [ashenhimasha10@gmail.com] or on [LinkedIn](https://www.linkedin.com/in/YourProfile)
+- 📫 Reach me at [ashenhimasha10@gmail.com] or on [LinkedIn](https://www.linkedin.com/in/Ashen De Silva)
 - 📱 Feel free to connect with me on WhatsApp: [+94 763188418]
 
 ---
