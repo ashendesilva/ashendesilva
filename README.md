@@ -5,14 +5,14 @@
 
 ---
 
-# Hey, I'm [Your Name] ✨
+# Hey, I'm [Ashen De Silva] ✨
 
 ## 👨‍💻 About Me
-- 🌍 I'm from [Your Country]
-- 👨‍🎓 I'm an undergraduate software engineer with a knack for creativity
-- 💼 Currently pursuing expertise in backend development, system design, and cloud architecture
-- 🔍 Interested in web development, open-source projects, and emerging technologies
-- 📫 Reach me at [Your Email] or on [LinkedIn](https://www.linkedin.com/in/YourProfile)
+- 🌍 I'm from [Sri Lanka]
+- 👨‍🎓 I'm an undergraduate software engineer in Java Institute For Advance Technology
+- 💼 Currently pursuing expertise in backend development, system design
+- 🔍 Interested in web development, open-source projects
+- 📫 Reach me at [ashenhimasha10@gmail.com] or on [LinkedIn](https://www.linkedin.com/in/YourProfile)
 - 📱 Feel free to connect with me on WhatsApp: [Your WhatsApp Number]
 
 ---
