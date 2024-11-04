@@ -1,8 +1,6 @@
 # Hi there 👋
 
-![Views](https://komarev.com/ghpvc/?username=ashendesilva&color=green&style=flat-square)
-![Stars](https://img.shields.io/github/stars/ashendesilva?color=yellow&style=flat-square)
-![License](https://img.shields.io/github/license/ashendesilva/YourRepo?style=flat-square)
+
 ![Author](https://img.shields.io/badge/Author-Ashen De Silva-blueviolet?style=flat-square)
 
 ---
