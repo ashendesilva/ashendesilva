@@ -27,16 +27,15 @@
 ## 🛠️ My Toolbox
 
 ### Core Skills
-- **Programming Languages:** Java, Python, JavaScript, C++
-- **Web Technologies:** HTML, CSS, Node.js, React
-- **Cloud & DevOps:** Docker, Kubernetes, AWS, Azure
-- **Tools & Systems:** Git, Linux, VS Code, Vim
+- **Programming Languages:** Java, Python, JavaScript
+- **Web Technologies:** HTML, CSS, Boosrap, React
+- **Tools & Systems:** Git, VS Code, Netbeans
 
 ---
 
 ## 📬 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashendesilva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YourWhatsAppNumber)
