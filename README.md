@@ -13,7 +13,7 @@
 - 💼 Currently pursuing expertise in backend development, system design
 - 🔍 Interested in web development, open-source projects
 - 📫 Reach me at [ashenhimasha10@gmail.com] or on [LinkedIn](https://www.linkedin.com/in/YourProfile)
-- 📱 Feel free to connect with me on WhatsApp: [Your WhatsApp Number]
+- 📱 Feel free to connect with me on WhatsApp: [+94 763188418]
 
 ---
 
